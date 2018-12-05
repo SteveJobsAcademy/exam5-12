@@ -34,7 +34,6 @@
 ##### Implementare un Server Api Node utilizzando il framework express che esponga le seguenti API
 
 1. POST Di Creazione ToDo 
-2. POST Di Cancellazione in base all'ID ToDo 
 3. PUT di modifica di ToDo in base all'id 
 4. GET lettura di tutti i ToDo filtrata per utente 
 5. GET lettura di tutti gli utenti disponibili
